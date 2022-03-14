@@ -15,7 +15,7 @@ One possible way to do this character entry, regardless of the language or keybo
 
 **USAGE**
 
- 1. Place type_alt.sikuli on the same others sikuli´s projects directory.
+ 1. Place type_alt.sikuli on the same others sikuli´s projects directory(strongly recommended for sikulixIDE), or import type_alt.py file.
  2. On the top of your sikuli script type:
 import type_alt
 reload(type_alt)
