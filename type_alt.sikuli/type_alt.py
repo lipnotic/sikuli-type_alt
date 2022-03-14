@@ -1,10 +1,9 @@
+# -*- coding: utf-8 -*-
+from sikuli import *
 # Copyright (C)2022 WitHub Tecnologia, Marketing e Educação
 # Free for use under MIT License
 # Author: Felipe Garbin
 # Contact: lipnotic@gmail.com
-# -*- coding: utf-8 -*-
-from sikuli import *
-
 #Dictionary codes extracted from https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/
 dict_alt = { 
 u"α":"224",
