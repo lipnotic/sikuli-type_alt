@@ -1,3 +1,6 @@
+# Copyright (C)2022 WitHub Tecnologia, Marketing e Educação
+# Author: Felipe Garbin
+# Contact: lipnotic@gmail.com
 # -*- coding: utf-8 -*-
 from sikuli import *
 
