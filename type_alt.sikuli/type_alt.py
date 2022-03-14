@@ -1,4 +1,5 @@
 # Copyright (C)2022 WitHub Tecnologia, Marketing e Educação
+# Free for use under MIT License
 # Author: Felipe Garbin
 # Contact: lipnotic@gmail.com
 # -*- coding: utf-8 -*-
