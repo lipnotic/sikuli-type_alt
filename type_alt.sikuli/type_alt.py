@@ -4,7 +4,7 @@ from sikuli import *
 # Free for use under MIT License
 # Author: Felipe Garbin
 # Contact: lipnotic@gmail.com
-#Dictionary codes extracted from https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/ (4 digits codes)
+# Dictionary codes extracted from https://www.freecodecamp.org/news/alt-codes-special-characters-keyboard-symbols-windows-list/ (4 digits codes)
 # And from https://theasciicode.com.ar/ascii-codes.txt for 3 digits codes
 dict_alt = { 
 u"Ç":"128",
