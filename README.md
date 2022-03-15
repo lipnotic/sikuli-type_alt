@@ -31,5 +31,5 @@ Now everytime you need to **type** accented/special characters, you can use type
     from type_alt import *
     
     
-    txt="Lúcia, Sônia, João, Patrícia, Fábio and André are names containing accented chars!"
+    txt=u"Lúcia, Sônia, João, Patrícia, Fábio and André are names containing accented chars!"
     type_alt(txt)
